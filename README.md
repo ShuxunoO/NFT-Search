@@ -1,4 +1,4 @@
-# NFT_Search_AdventureX2024
-NFT_Search AdventureX2024 代码仓库
+# NFT_Search
+NFT Search: GPT Search in NFTs
 
 ![NFT Search logo](./assets/NFT_Search_banner.png)
